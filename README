@@ -1,0 +1,11 @@
+Open Flash Chart 
+
+Ported for Sinatra
+
+
+---
+Implicit Dependencies
+
+Active Support - 2.1.0 - 2.3.5 
+
+
